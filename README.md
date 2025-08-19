@@ -38,7 +38,3 @@ npm run build
 2. **Click to Mark**: Click anywhere on the map to place a red marker
 3. **Navigate**: Use zoom controls or scroll/pinch to navigate
 4. **Locate**: Click the location button to center on your position
-
-## License
-
-MIT
